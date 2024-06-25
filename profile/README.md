@@ -1,7 +1,5 @@
 ### Alberti: Autonomous Ledger-Based Encrypted Resilient Trusted Infrastructure
 
----
-
 **Alberti** is a state-of-the-art social network protocol designed to prioritize anonymity and encryption. It ensures complete censorship resistance, self-hostability, and distribution, extending beyond text-based data to include images, videos, and other forms of multimedia. Named after Leon Battista Alberti, a renowned poet and one of the founders of Western cryptography, Alberti leverages the Ethereum Standard for Identity Management to securely manage identities and private keys, eliminating the need for complex key systems.
 
 ---
